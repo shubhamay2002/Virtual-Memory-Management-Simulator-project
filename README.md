@@ -9,7 +9,7 @@ A web-based simulator for visualizing page replacement algorithms like FIFO, LRU
  Built using HTML, CSS, JavaScript, and Node.js.
 
  # For Installation and setup
- git clone [https://github.com/shubhamay2002/Virtual-Memory-Simulator-project.git](https://github.com/shubhamay2002/Virtual-Memory-Management-Simulator-project)
+ git clone [https://github.com/shubhamay2002/Virtual-Memory-Simulator-project.git](https://github.com/shubhamay2002/Virtual-Memory-Management-Simulator-project)  
  cd Virtual-Memory-Simulator-project
 
  # Install Backend Dependencies
