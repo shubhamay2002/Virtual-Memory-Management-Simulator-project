@@ -31,5 +31,6 @@ cd Virtual-Memory-Simulator-project
  node server.js
 ```
 Server will get started at http://localhost:5000
- 
+# Opening the Frontend
+Just open index.html in a Web Browser or We can also use Live Server extension in VS Code 
 
