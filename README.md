@@ -16,17 +16,20 @@ A web-based simulator for visualizing page replacement algorithms like FIFO, LRU
  # For Installation and setup
  Follow these steps to set up the project locally:
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/shubhamay2002/Virtual-Memory-Simulator-project.git
 cd Virtual-Memory-Simulator-project
 ```
- # Install Backend Dependencies
+ ### Install Backend Dependencies
+ ```bash
  cd backend
  npm install
-
- # Running the Server 
+```
+ ### Running the Server
+ ```bash
  node server.js
- Server will get started at http://localhost:5000
+```
+Server will get started at http://localhost:5000
  
 
